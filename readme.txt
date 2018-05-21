@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 We need another sentence.
 Git tracks changes.
 Creating a branch is quick and simple.
+Branch two is another test.
