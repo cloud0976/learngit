@@ -8,3 +8,4 @@ Branch one is a test.
 Branch two is another test.
 Second floor test.
 Third floor test.
+Fast forward can delete branch and have a commit about the delete.
